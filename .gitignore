@@ -1,0 +1,16 @@
+
+# Package Files #
+*.war
+*.ear
+target/
+
+# IDE settings
+*.iml
+*.ipr
+*.iws
+.idea/
+.settings/
+.project
+.classpath
+.externalToolBuilders/
+out/
