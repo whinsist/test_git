@@ -8,5 +8,6 @@ public class Test06Resett {
     public static void main(String[] args) {
         System.out.println("testsssss");
         System.out.println("强制与服务器一致：git reset --hard origin/test");
+        System.out.println("重命名");
     }
 }
